@@ -1,0 +1,58 @@
+.navbar-container{
+    background-image:  url("https://themezhub.net/skillup-demo/assets/img/banner-3.jpg");
+    background-repeat: no-repeat;
+    padding: 20px;
+    margin: 0;
+    width: 100%;
+    height: 600px;
+}
+.menu {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 700;
+    color: #333d46;
+    cursor: pointer;
+    text-decoration: none;
+}
+.menu:hover {
+    color: #03b97c;
+}
+.btn{
+    background-color: #03b97c;
+    color: white;
+    font-weight: 600;
+}
+.banner-container{
+    margin-top: 200px;
+    color: white;
+}
+.banner-container h2{
+    color: #03b97c;
+    font-size: 3.5em;
+    padding: 10px;
+    font-weight: 700;
+    line-height: 55px;
+}
+.banner-container p{
+    font-size: 1.1em;
+    padding: 10px;
+    font-weight: 700;
+    color: #333d46;
+    line-height: 28px;
+}
+.newsletter{
+    align-items: center;
+    vertical-align: middle;
+}
+input{
+    padding: 8px;
+    margin-top: 20px;
+    border: none;
+    width: 25%;
+}
+.signup-btn{
+    background-color: #03b97c;
+    margin-top: 50px;
+}
