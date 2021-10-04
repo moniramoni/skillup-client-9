@@ -1,6 +1,6 @@
-# Website Name = Skill Up
+# Website Name -- Skill Up
 
-# Live Site Link [Create React App](https://skillup-knowledge.netlify.app/).
+# Live Site Link -- [SkillUp](https://skillup-knowledge.netlify.app/).
 
 # About SkillUp
 - SkillUp was founded by Monira Moni in 2016 with a vision of providing life-transforming learning experiences to learners around the world.
