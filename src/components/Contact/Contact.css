@@ -1,0 +1,15 @@
+.contact-container{
+    width: 80%;
+    margin: auto;
+}
+.email{
+    display: flex;
+    padding: 50px;
+}
+.fa-envelope, .call, .location{
+    font-size: 30px;
+    padding: 20px;
+    color: #03b97c;
+    background-color: rgba(128, 128, 128, 0.322);
+    margin-right: 10px;
+}

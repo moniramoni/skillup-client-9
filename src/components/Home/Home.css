@@ -1,0 +1,20 @@
+h5{
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 80px;
+}
+.course-overview-container{
+    background-color: #03b97c50;
+    padding: 40px 120px;
+    margin-bottom: 50px;
+    width: 90%;
+    margin: auto;
+    align-items: center;
+    margin-top: -40px;
+
+}
+.course{
+    background-color: rgba(255, 255, 255, 0.986);
+    padding: 20px;
+    /* margin-right: 10px; */
+}

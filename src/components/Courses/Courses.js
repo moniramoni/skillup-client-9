@@ -15,7 +15,9 @@ const Courses = () => {
 
     return (
         <div>
-            <h2></h2>
+            <div>
+            <h5>Browse All Courses</h5>
+            </div>
             <div className="courses-container">
                 {
                     courses.map(course => <Course

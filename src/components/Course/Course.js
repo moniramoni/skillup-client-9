@@ -2,7 +2,7 @@ import React from 'react';
 import './Course.css';
 
 const Course = (props) => {
-    const{courseName, img, category, courseLink, id, instructorImg, instructorName, lession, price, review, star, student, }=props.course
+    const{courseName, img, courseLink, instructorImg, instructorName, lession, price, review, star, student, }=props.course
     return (
         <div>
             <div className="courses">
