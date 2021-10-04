@@ -16,5 +16,16 @@ h5{
 .course{
     background-color: rgba(255, 255, 255, 0.986);
     padding: 20px;
-    /* margin-right: 10px; */
+}
+.course h3{
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px;
+}
+.fa-database, .fa-accusoft, .fa-wordpress-simple, .fa-laptop-code{
+    font-size: 30px;
+    padding: 20px;
+    color: #03b97c;
+    background-color: rgba(128, 128, 128, 0.322);
+    margin-right: 10px;
 }

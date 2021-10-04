@@ -1,6 +1,6 @@
 import Button from '@restart/ui/esm/Button';
 import React from 'react';
-import { Col, Container, FloatingLabel, Form, Row } from 'react-bootstrap';
+import { Col, Container, Row } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 import './Header.css';
 

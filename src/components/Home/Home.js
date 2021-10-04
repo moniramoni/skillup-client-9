@@ -19,24 +19,24 @@ const Home = () => {
                 <div className="course-overview">
                 <Row xs={1} md={2} lg={4}>
                 <Col className="course">
-                    <i className="fas fa-envelope"></i>
+                    <i className="fab fa-accusoft"></i>
                     <h3>Web Development</h3>
-                    <p>moniinfo60@gmail.com</p>
+                    <p>18 Courses</p>
                 </Col>
                 <Col className="course">
-                    <i className="fas fa-envelope"></i>
+                    <i className="fab fa-wordpress-simple"></i>
                     <h3>WordPress Development</h3>
-                    <p>moniinfo60@gmail.com</p>
+                    <p>15 Courses</p>
                 </Col>
                 <Col className="course">
-                    <i className="fas fa-envelope"></i>
+                    <i className="fas fa-database"></i>
                     <h3>Backend Development</h3>
-                    <p>moniinfo60@gmail.com</p>
+                    <p>12 Courses</p>
                 </Col>
                 <Col className="course">
-                    <i className="fas fa-envelope"></i>
+                    <i className="fas fa-laptop-code"></i>
                     <h3>Software Development</h3>
-                    <p>moniinfo60@gmail.com</p>
+                    <p>6 Courses</p>
                 </Col>
                 </Row>
                 </div>
