@@ -93,4 +93,7 @@ h4{
     font-family: 'Fira Sans', sans-serif;
     font-weight: 800;
 }
+.rating{
+    text-align: left;
+}
 /* instructor info end */

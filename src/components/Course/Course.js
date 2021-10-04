@@ -20,7 +20,7 @@ const Course = (props) => {
                     </div>
                 </div>
                 <h2>{courseName}</h2>
-                <p>Rating:{star} ({review})</p>
+                <p className="rating">Rating:{star} ({review})</p>
                 <hr />
                 <div className="info-price">
                     <div className="instructor-info">
