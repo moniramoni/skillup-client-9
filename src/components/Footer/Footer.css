@@ -63,6 +63,9 @@
 hr{
     color: white;
 }
+.copyright{
+    margin-top: 50px;
+}
 .footer-container h3{
     text-align: center;
     font-size: 18px;

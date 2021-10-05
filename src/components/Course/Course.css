@@ -96,4 +96,7 @@ h4{
 .rating{
     text-align: left;
 }
+.fa-star{
+    color: #03b97c;
+}
 /* instructor info end */

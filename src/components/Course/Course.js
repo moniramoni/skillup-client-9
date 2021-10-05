@@ -1,5 +1,6 @@
 import React from 'react';
 import './Course.css';
+import Rating from 'react-rating';
 
 const Course = (props) => {
     const{courseName, img, courseLink, instructorImg, instructorName, lession, price, review, star, student, }=props.course
@@ -20,7 +21,7 @@ const Course = (props) => {
                     </div>
                 </div>
                 <h2>{courseName}</h2>
-                <p className="rating">Rating: {star} ({review})</p>
+                <p className="rating"> <Rating initialRating={star} emptySymbol="far fa-star" fullSymbol="fas fa-star" readonly></Rating>({review})</p>
                 <hr />
                 <div className="info-price">
                     <div className="instructor-info">

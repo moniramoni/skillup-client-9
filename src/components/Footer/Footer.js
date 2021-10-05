@@ -57,7 +57,7 @@ const Footer = () => {
                 </Row>
             </Container>
             <hr />
-            <h3>© 2021 Yle – Education. All rights reserved.</h3>
+            <h3 className="copyright">© 2021 SkillUp. All rights reserved.</h3>
         
         </div>
     );
